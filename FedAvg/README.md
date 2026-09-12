@@ -4,7 +4,7 @@ A from-scratch PyTorch reproduction of the FederatedAveraging (FedAvg) algorithm
 
 ---
 
-## What is Federated Learning? (Plain English)
+## What is Federated Learning? 
 
 Normally, to train a machine learning model, you collect all the data in one place (a server) and train there. But a lot of useful data is private — the photos on your phone, the messages you type, your medical records. People don't want that data uploaded to a company's server.
 
@@ -152,6 +152,9 @@ No GPU is required. The models are small enough that CPU is sufficient.
 McMahan, H. B., Moore, E., Ramage, D., Hampson, S., & Aguera y Arcas, B. (2017). Communication-Efficient Learning of Deep Networks from Decentralized Data. AISTATS 2017. arXiv:1602.05629
 
 ---
+
+## Medium Blog:
+https://medium.com/@asthamaurya8115/i-built-federated-learning-from-scratch-then-broke-its-privacy-promise-3a93c95b8c09?postPublishedType=initial
 
 ## What's Next
 
