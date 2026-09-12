@@ -6,7 +6,7 @@ This is the second project in a series. The first project implements FedAvg (fed
 
 ---
 
-## The Problem (Plain English)
+## The Problem 
 
 In federated learning, clients train models on their private data and share only the gradients with a central server. The raw data never leaves the device. Everyone assumed this was safe — gradients are just numbers, right?
 
