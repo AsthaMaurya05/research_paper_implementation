@@ -175,3 +175,7 @@ This implementation attacks a single image. Potential extensions:
 - Attack the CNN model from the FedAvg project
 - Apply the attack in a full federated learning setting (attack a
   real FedAvg client mid-training)
+
+
+## Medium Blog : 
+https://medium.com/@asthamaurya8115/i-built-federated-learning-from-scratch-then-broke-its-privacy-promise-3a93c95b8c09?postPublishedType=initial
